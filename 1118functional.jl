@@ -1,8 +1,8 @@
 
 using Plots
-
+#hello
 #define global constants, read only
-p_inf = 0.3
+p_inf = 0.4
 p_sev = 0.2
 p_rec = 1-p_sev
 p_recSI = 0.6
